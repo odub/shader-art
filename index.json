@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Deny II",
+    "artist": "Bridget Riley",
+    "year": "1967",
+    "fragment_shader": "shaders/riley-deny-ii.frag",
+    "contributors": ["Oscar Dub", "Dylan Sherry"],
+    "sandbox_url": "http://glslsandbox.com/e#49880.24"
+  }
+]
